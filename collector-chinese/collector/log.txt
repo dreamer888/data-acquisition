@@ -1,0 +1,1263 @@
+2016-11-30 01:54:41   process is destroyed! 
+
+2016-12-02 09:48:25   192.168.1.105 connected !
+2016-12-02 09:53:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 09:53:38   192.168.1.105 connected !
+2016-12-02 10:09:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 10:09:53   192.168.1.105 connected !
+2016-12-02 10:19:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 10:19:46   192.168.1.105 connected !
+2016-12-02 10:20:15   process is destroyed! 
+2016-12-02 10:32:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 10:32:22   192.168.1.105 connected !
+2016-12-02 10:36:57   process is destroyed! 
+2016-12-02 10:41:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 10:41:25   192.168.1.105 connected !
+2016-12-02 11:07:31   process is destroyed! 
+2016-12-02 11:08:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-02 11:08:18   process is destroyed! 
+2016-12-16 10:51:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 10:53:36   process is destroyed! 
+2016-12-16 10:54:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 11:55:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 11:57:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 11:59:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:00:18   process is destroyed! 
+2016-12-16 12:01:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:02:16   process is destroyed! 
+2016-12-16 12:02:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:03:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:03:28   process is destroyed! 
+2016-12-16 12:06:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:10:10   process is destroyed! 
+2016-12-16 12:11:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:12:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:14:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:15:52   process is destroyed! 
+2016-12-16 12:18:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:18:56   process is destroyed! 
+2016-12-16 12:22:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:25:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:29:51   process is destroyed! 
+2016-12-16 12:33:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:33:47   process is destroyed! 
+2016-12-16 12:34:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:35:06   process is destroyed! 
+2016-12-16 12:38:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:38:12   process is destroyed! 
+2016-12-16 12:38:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:39:20   process is destroyed! 
+2016-12-16 12:39:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:40:45   process is destroyed! 
+2016-12-16 12:42:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:42:33   process is destroyed! 
+2016-12-16 12:43:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:44:52   process is destroyed! 
+2016-12-16 12:46:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:47:45   process is destroyed! 
+2016-12-16 12:48:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:49:11   process is destroyed! 
+2016-12-16 12:50:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:50:37   process is destroyed! 
+2016-12-16 12:52:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:52:20   process is destroyed! 
+2016-12-16 12:52:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 12:53:48   process is destroyed! 
+2016-12-16 12:53:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 15:51:15   process is destroyed! 
+2016-12-16 15:52:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 15:54:10   process is destroyed! 
+2016-12-16 15:56:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 15:57:39   process is destroyed! 
+2016-12-16 15:58:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 15:59:02   process is destroyed! 
+2016-12-16 15:59:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 16:03:57   process is destroyed! 
+2016-12-16 19:23:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:26:53   process is destroyed! 
+2016-12-16 19:37:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:38:39   process is destroyed! 
+2016-12-16 19:39:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:42:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:43:51   process is destroyed! 
+2016-12-16 19:44:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:45:07   process is destroyed! 
+2016-12-16 19:45:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:46:00   process is destroyed! 
+2016-12-16 19:46:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 19:47:39   process is destroyed! 
+2016-12-16 19:59:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:00:04   process is destroyed! 
+2016-12-16 20:00:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:00:43   process is destroyed! 
+2016-12-16 20:04:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:05:13   process is destroyed! 
+2016-12-16 20:06:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:06:43   process is destroyed! 
+2016-12-16 20:09:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:09:44   process is destroyed! 
+2016-12-16 20:11:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:14:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:16:02   process is destroyed! 
+2016-12-16 20:16:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:19:26   process is destroyed! 
+2016-12-16 20:41:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:41:45   process is destroyed! 
+2016-12-16 20:46:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:46:54   process is destroyed! 
+2016-12-16 20:47:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:50:56   process is destroyed! 
+2016-12-16 20:51:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 20:59:09   process is destroyed! 
+2016-12-16 22:48:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 22:48:26   process is destroyed! 
+2016-12-16 22:49:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 22:49:25   process is destroyed! 
+2016-12-16 22:49:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 22:57:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 22:58:50   process is destroyed! 
+2016-12-16 23:01:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:02:17   process is destroyed! 
+2016-12-16 23:03:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:11:44   process is destroyed! 
+2016-12-16 23:15:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:16:18   process is destroyed! 
+2016-12-16 23:17:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:17:43   process is destroyed! 
+2016-12-16 23:18:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:22:44   process is destroyed! 
+2016-12-16 23:25:17   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:27:03   process is destroyed! 
+2016-12-16 23:27:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:27:55   process is destroyed! 
+2016-12-16 23:30:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:30:55   process is destroyed! 
+2016-12-16 23:32:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:32:47   process is destroyed! 
+2016-12-16 23:33:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:36:47   process is destroyed! 
+2016-12-16 23:39:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:39:25   process is destroyed! 
+2016-12-16 23:39:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-16 23:39:58   process is destroyed! 
+2016-12-16 23:40:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:04:45   process is destroyed! 
+2016-12-17 00:07:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:07:53   process is destroyed! 
+2016-12-17 00:08:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:08:39   process is destroyed! 
+2016-12-17 00:09:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:12:57   process is destroyed! 
+2016-12-17 00:23:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:25:01   process is destroyed! 
+2016-12-17 00:41:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:42:28   process is destroyed! 
+2016-12-17 00:43:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:43:03   process is destroyed! 
+2016-12-17 00:43:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:53:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:54:04   process is destroyed! 
+2016-12-17 00:54:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 00:59:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:05:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:05:39   process is destroyed! 
+2016-12-17 01:05:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:07:13   process is destroyed! 
+2016-12-17 01:07:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:08:16   process is destroyed! 
+2016-12-17 01:10:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:11:10   process is destroyed! 
+2016-12-17 01:11:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:13:43   process is destroyed! 
+2016-12-17 01:15:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:15:30   process is destroyed! 
+2016-12-17 01:15:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:16:23   process is destroyed! 
+2016-12-17 01:17:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:18:07   process is destroyed! 
+2016-12-17 01:18:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:23:55   process is destroyed! 
+2016-12-17 01:28:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:29:01   process is destroyed! 
+2016-12-17 01:29:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:29:38   process is destroyed! 
+2016-12-17 01:29:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:30:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:31:28   process is destroyed! 
+2016-12-17 01:33:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:33:48   process is destroyed! 
+2016-12-17 01:34:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:34:11   process is destroyed! 
+2016-12-17 01:34:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:34:54   process is destroyed! 
+2016-12-17 01:34:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:35:23   process is destroyed! 
+2016-12-17 01:36:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:37:06   process is destroyed! 
+2016-12-17 01:37:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:38:04   process is destroyed! 
+2016-12-17 01:38:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:41:16   process is destroyed! 
+2016-12-17 01:45:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 01:48:20   process is destroyed! 
+2016-12-17 02:03:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:05:51   process is destroyed! 
+2016-12-17 02:07:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:10:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:12:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:15:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:18:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:18:57   process is destroyed! 
+2016-12-17 02:22:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 02:39:14   process is destroyed! 
+2016-12-17 09:18:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:19:15   process is destroyed! 
+2016-12-17 09:24:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:25:41   process is destroyed! 
+2016-12-17 09:27:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:27:46   process is destroyed! 
+2016-12-17 09:32:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:32:31   process is destroyed! 
+2016-12-17 09:32:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:33:47   process is destroyed! 
+2016-12-17 09:34:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:38:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:39:50   process is destroyed! 
+2016-12-17 09:41:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:42:50   process is destroyed! 
+2016-12-17 09:43:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:43:51   process is destroyed! 
+2016-12-17 09:44:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:44:44   process is destroyed! 
+2016-12-17 09:45:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:45:21   process is destroyed! 
+2016-12-17 09:45:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:45:56   process is destroyed! 
+2016-12-17 09:46:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:47:11   process is destroyed! 
+2016-12-17 09:57:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 09:57:29   process is destroyed! 
+2016-12-17 09:58:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:00:11   process is destroyed! 
+2016-12-17 10:00:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:00:38   process is destroyed! 
+2016-12-17 10:18:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:18:54   process is destroyed! 
+2016-12-17 10:20:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:38:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:38:54   process is destroyed! 
+2016-12-17 10:39:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:39:49   process is destroyed! 
+2016-12-17 10:44:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:45:56   process is destroyed! 
+2016-12-17 10:47:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 10:47:58   process is destroyed! 
+2016-12-17 11:22:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 11:23:57   process is destroyed! 
+2016-12-17 11:25:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 11:25:57   process is destroyed! 
+2016-12-17 11:28:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 11:29:24   process is destroyed! 
+2016-12-17 11:31:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-17 11:32:48   process is destroyed! 
+2016-12-20 11:37:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 11:38:58   process is destroyed! 
+2016-12-20 11:42:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 11:42:45   process is destroyed! 
+2016-12-20 11:44:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 11:47:11   process is destroyed! 
+2016-12-20 11:47:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 11:49:51   process is destroyed! 
+2016-12-20 12:01:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:02:20   process is destroyed! 
+2016-12-20 12:02:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:03:17   process is destroyed! 
+2016-12-20 12:05:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:07:19   process is destroyed! 
+2016-12-20 12:08:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:08:23   process is destroyed! 
+2016-12-20 12:08:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:09:13   process is destroyed! 
+2016-12-20 12:09:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:11:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:16:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:17:22   process is destroyed! 
+2016-12-20 12:17:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:18:19   process is destroyed! 
+2016-12-20 12:18:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:20:03   process is destroyed! 
+2016-12-20 12:22:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:25:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:28:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:29:49   process is destroyed! 
+2016-12-20 12:30:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:31:45   process is destroyed! 
+2016-12-20 12:33:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:33:26   process is destroyed! 
+2016-12-20 12:33:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:34:25   process is destroyed! 
+2016-12-20 12:35:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:36:03   process is destroyed! 
+2016-12-20 12:37:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:38:01   process is destroyed! 
+2016-12-20 12:40:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 12:41:04   process is destroyed! 
+2016-12-20 16:05:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:06:05   process is destroyed! 
+2016-12-20 16:06:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:07:06   process is destroyed! 
+2016-12-20 16:08:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:08:59   process is destroyed! 
+2016-12-20 16:09:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:10:20   process is destroyed! 
+2016-12-20 16:11:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:12:13   process is destroyed! 
+2016-12-20 16:13:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:13:54   process is destroyed! 
+2016-12-20 16:14:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:15:02   process is destroyed! 
+2016-12-20 16:16:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:16:36   process is destroyed! 
+2016-12-20 16:16:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:23:01   process is destroyed! 
+2016-12-20 16:30:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:31:23   process is destroyed! 
+2016-12-20 16:32:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:32:44   process is destroyed! 
+2016-12-20 16:55:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 16:55:55   process is destroyed! 
+2016-12-20 17:53:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 17:55:18   process is destroyed! 
+2016-12-20 17:57:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 17:58:54   process is destroyed! 
+2016-12-20 17:59:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 17:59:42   process is destroyed! 
+2016-12-20 17:59:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:00:22   process is destroyed! 
+2016-12-20 18:01:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:01:48   process is destroyed! 
+2016-12-20 18:24:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:26:20   process is destroyed! 
+2016-12-20 18:30:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:30:48   process is destroyed! 
+2016-12-20 18:33:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:38:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:41:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:42:16   process is destroyed! 
+2016-12-20 18:42:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:43:39   process is destroyed! 
+2016-12-20 18:44:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:46:02   process is destroyed! 
+2016-12-20 18:48:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:54:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:54:39   process is destroyed! 
+2016-12-20 18:56:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 18:58:18   process is destroyed! 
+2016-12-20 19:01:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:01:50   process is destroyed! 
+2016-12-20 19:01:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:07:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:07:41   process is destroyed! 
+2016-12-20 19:08:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:10:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:14:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:16:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:22:24   process is destroyed! 
+2016-12-20 19:24:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:28:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 19:29:09   process is destroyed! 
+2016-12-20 20:01:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:03:57   process is destroyed! 
+2016-12-20 20:04:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:15:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:15:55   process is destroyed! 
+2016-12-20 20:17:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:20:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:21:57   process is destroyed! 
+2016-12-20 20:25:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:25:32   process is destroyed! 
+2016-12-20 20:25:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:26:05   process is destroyed! 
+2016-12-20 20:27:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:27:42   process is destroyed! 
+2016-12-20 20:28:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:28:51   process is destroyed! 
+2016-12-20 20:29:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 20:33:30   process is destroyed! 
+2016-12-20 22:41:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:43:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:43:50   process is destroyed! 
+2016-12-20 22:52:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:52:46   process is destroyed! 
+2016-12-20 22:52:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:54:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:54:46   process is destroyed! 
+2016-12-20 22:55:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:56:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:56:57   process is destroyed! 
+2016-12-20 22:57:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:57:18   process is destroyed! 
+2016-12-20 22:57:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 22:58:56   process is destroyed! 
+2016-12-20 22:59:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 23:01:18   process is destroyed! 
+2016-12-20 23:14:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 23:14:41   process is destroyed! 
+2016-12-20 23:30:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-20 23:31:18   process is destroyed! 
+2016-12-20 23:31:41   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 00:05:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 00:06:36   process is destroyed! 
+2016-12-21 00:30:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 00:45:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 00:58:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 01:08:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 01:15:41   process is destroyed! 
+2016-12-21 01:16:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 01:16:31   process is destroyed! 
+2016-12-21 01:16:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 01:46:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:10:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:12:16   process is destroyed! 
+2016-12-21 02:18:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:18:22   process is destroyed! 
+2016-12-21 02:40:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:40:23   process is destroyed! 
+2016-12-21 02:48:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:52:25   process is destroyed! 
+2016-12-21 02:58:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 02:59:57   process is destroyed! 
+2016-12-21 03:00:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 11:07:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 11:07:49   process is destroyed! 
+2016-12-21 11:21:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 11:21:50   process is destroyed! 
+2016-12-21 11:24:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 11:31:01   process is destroyed! 
+2016-12-21 12:02:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 12:09:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-21 12:12:45   process is destroyed! 
+2016-12-26 15:56:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2016-12-26 15:59:40   process is destroyed! 
+2017-01-05 17:53:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 17:53:49   process is destroyed! 
+2017-01-05 18:27:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:27:23   process is destroyed! 
+2017-01-05 18:28:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:28:36   process is destroyed! 
+2017-01-05 18:29:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:29:40   process is destroyed! 
+2017-01-05 18:30:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:30:35   process is destroyed! 
+2017-01-05 18:34:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:34:44   process is destroyed! 
+2017-01-05 18:35:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:35:31   process is destroyed! 
+2017-01-05 18:36:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:37:01   process is destroyed! 
+2017-01-05 18:37:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:38:01   process is destroyed! 
+2017-01-05 18:55:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:56:01   process is destroyed! 
+2017-01-05 18:56:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:56:36   process is destroyed! 
+2017-01-05 18:56:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:57:53   process is destroyed! 
+2017-01-05 18:58:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 18:58:09   process is destroyed! 
+2017-01-05 19:02:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:02:29   process is destroyed! 
+2017-01-05 19:02:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:04:22   process is destroyed! 
+2017-01-05 19:05:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:05:30   process is destroyed! 
+2017-01-05 19:05:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:05:51   process is destroyed! 
+2017-01-05 19:06:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:06:53   process is destroyed! 
+2017-01-05 19:07:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:07:30   process is destroyed! 
+2017-01-05 19:07:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:11:06   process is destroyed! 
+2017-01-05 19:16:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:16:57   process is destroyed! 
+2017-01-05 19:20:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:20:17   process is destroyed! 
+2017-01-05 19:20:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:23:48   process is destroyed! 
+2017-01-05 19:24:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:25:06   process is destroyed! 
+2017-01-05 19:25:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:26:02   process is destroyed! 
+2017-01-05 19:26:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:26:12   process is destroyed! 
+2017-01-05 19:26:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:26:48   process is destroyed! 
+2017-01-05 19:28:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:28:48   process is destroyed! 
+2017-01-05 19:28:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:35:26   process is destroyed! 
+2017-01-05 19:36:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:37:00   process is destroyed! 
+2017-01-05 19:37:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:39:44   process is destroyed! 
+2017-01-05 19:45:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:45:16   process is destroyed! 
+2017-01-05 19:47:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:47:29   process is destroyed! 
+2017-01-05 19:48:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:48:12   process is destroyed! 
+2017-01-05 19:49:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:49:54   process is destroyed! 
+2017-01-05 19:50:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:50:06   process is destroyed! 
+2017-01-05 19:55:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 19:55:20   process is destroyed! 
+2017-01-05 20:02:41   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:03:28   process is destroyed! 
+2017-01-05 20:03:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:03:54   process is destroyed! 
+2017-01-05 20:06:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:06:11   process is destroyed! 
+2017-01-05 20:17:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:17:53   process is destroyed! 
+2017-01-05 20:20:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:20:07   process is destroyed! 
+2017-01-05 20:23:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:23:21   process is destroyed! 
+2017-01-05 20:23:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:23:40   process is destroyed! 
+2017-01-05 20:24:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:24:08   process is destroyed! 
+2017-01-05 20:24:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:24:25   process is destroyed! 
+2017-01-05 20:24:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:24:59   process is destroyed! 
+2017-01-05 20:51:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 20:52:01   process is destroyed! 
+2017-01-05 21:00:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-05 23:14:00   process is destroyed! 
+2017-01-06 15:40:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 15:42:42   process is destroyed! 
+2017-01-06 15:52:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 15:52:36   process is destroyed! 
+2017-01-06 15:53:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 15:54:59   process is destroyed! 
+2017-01-06 16:05:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:06:44   process is destroyed! 
+2017-01-06 16:18:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:19:13   process is destroyed! 
+2017-01-06 16:20:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:21:23   process is destroyed! 
+2017-01-06 16:24:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:25:22   process is destroyed! 
+2017-01-06 16:25:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:25:41   process is destroyed! 
+2017-01-06 16:25:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:25:55   process is destroyed! 
+2017-01-06 16:30:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:30:56   process is destroyed! 
+2017-01-06 16:31:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:32:16   process is destroyed! 
+2017-01-06 16:34:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:42:24   process is destroyed! 
+2017-01-06 16:43:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:49:59   process is destroyed! 
+2017-01-06 16:50:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:51:19   process is destroyed! 
+2017-01-06 16:52:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:53:18   process is destroyed! 
+2017-01-06 16:58:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:58:27   process is destroyed! 
+2017-01-06 16:59:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 16:59:46   process is destroyed! 
+2017-01-06 17:00:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 17:00:41   process is destroyed! 
+2017-01-06 17:37:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 17:37:55   process is destroyed! 
+2017-01-06 17:55:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 17:55:46   process is destroyed! 
+2017-01-06 17:55:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 17:56:20   process is destroyed! 
+2017-01-06 17:56:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 17:57:00   process is destroyed! 
+2017-01-06 17:58:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:00:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:00:51   process is destroyed! 
+2017-01-06 18:00:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:01:34   process is destroyed! 
+2017-01-06 18:02:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:02:33   process is destroyed! 
+2017-01-06 18:03:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:03:33   process is destroyed! 
+2017-01-06 18:03:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:03:42   process is destroyed! 
+2017-01-06 18:03:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:03:53   process is destroyed! 
+2017-01-06 18:03:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:04:12   process is destroyed! 
+2017-01-06 18:04:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:04:26   process is destroyed! 
+2017-01-06 18:04:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:06:50   process is destroyed! 
+2017-01-06 18:06:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:06:56   process is destroyed! 
+2017-01-06 18:07:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:07:13   process is destroyed! 
+2017-01-06 18:07:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:07:20   process is destroyed! 
+2017-01-06 18:07:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:07:29   process is destroyed! 
+2017-01-06 18:07:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:07:33   process is destroyed! 
+2017-01-06 18:07:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:07:41   process is destroyed! 
+2017-01-06 18:07:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:09:43   process is destroyed! 
+2017-01-06 18:09:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:10:33   process is destroyed! 
+2017-01-06 18:10:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-06 18:56:20   process is destroyed! 
+2017-01-06 18:56:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-07 22:35:18   process is destroyed! 
+2017-01-07 22:35:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-07 22:38:52   192.168.1.105 connected !
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+2017-01-07 23:20:53   process is destroyed! 
+2017-01-07 23:23:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-07 23:23:16   192.168.1.105 connected !
+2017-01-07 23:23:18   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:19   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:20   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:21   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:22   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:23   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:24   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:25   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:26   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:27   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:28   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:29   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:30   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:31   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:32   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:35   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:36   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:37   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:38   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:39   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:40   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:41   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:42   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:43   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:23:44   192.168.1.105 id=1001 addr=2002 name=system transfered !
+2017-01-07 23:29:09   process is destroyed! 
+2017-01-07 23:29:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-07 23:29:17   192.168.1.105 connected !
+2017-01-07 23:49:20   process is destroyed! 
+2017-01-07 23:52:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-07 23:52:31   process is destroyed! 
+2017-01-08 23:16:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-08 23:18:04   process is destroyed! 
+2017-01-08 23:21:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 00:40:49   process is destroyed! 
+2017-01-09 00:42:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 00:53:53   process is destroyed! 
+2017-01-09 01:02:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:03:19   process is destroyed! 
+2017-01-09 01:03:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:19:04   process is destroyed! 
+2017-01-09 01:26:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:27:03   process is destroyed! 
+2017-01-09 01:39:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:39:35   process is destroyed! 
+2017-01-09 01:44:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:44:42   process is destroyed! 
+2017-01-09 01:45:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:48:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:49:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:50:03   process is destroyed! 
+2017-01-09 01:51:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:53:56   process is destroyed! 
+2017-01-09 01:55:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:55:46   process is destroyed! 
+2017-01-09 01:56:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 01:57:55   process is destroyed! 
+2017-01-09 02:00:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:02:43   process is destroyed! 
+2017-01-09 02:05:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:09:45   process is destroyed! 
+2017-01-09 02:10:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:11:08   process is destroyed! 
+2017-01-09 02:11:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:12:06   process is destroyed! 
+2017-01-09 02:13:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:13:57   process is destroyed! 
+2017-01-09 02:16:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:16:59   process is destroyed! 
+2017-01-09 02:21:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:21:48   process is destroyed! 
+2017-01-09 02:24:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:25:37   process is destroyed! 
+2017-01-09 02:27:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:28:41   process is destroyed! 
+2017-01-09 02:30:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:30:58   process is destroyed! 
+2017-01-09 02:31:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:32:38   process is destroyed! 
+2017-01-09 02:32:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:33:20   process is destroyed! 
+2017-01-09 02:33:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:34:48   process is destroyed! 
+2017-01-09 02:35:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:36:09   process is destroyed! 
+2017-01-09 02:36:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:36:59   process is destroyed! 
+2017-01-09 02:37:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:38:54   process is destroyed! 
+2017-01-09 02:39:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:39:51   process is destroyed! 
+2017-01-09 02:40:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:41:28   process is destroyed! 
+2017-01-09 02:42:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:44:35   process is destroyed! 
+2017-01-09 02:47:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:47:58   process is destroyed! 
+2017-01-09 02:51:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:52:43   process is destroyed! 
+2017-01-09 02:54:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:55:50   process is destroyed! 
+2017-01-09 02:56:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:56:42   process is destroyed! 
+2017-01-09 02:57:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 02:59:46   process is destroyed! 
+2017-01-09 03:01:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:02:32   process is destroyed! 
+2017-01-09 03:03:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:04:15   process is destroyed! 
+2017-01-09 03:05:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:05:38   process is destroyed! 
+2017-01-09 03:06:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:07:31   process is destroyed! 
+2017-01-09 03:13:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:14:45   process is destroyed! 
+2017-01-09 03:22:41   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:24:57   process is destroyed! 
+2017-01-09 03:25:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:25:58   process is destroyed! 
+2017-01-09 03:26:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:26:50   process is destroyed! 
+2017-01-09 03:27:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:28:03   process is destroyed! 
+2017-01-09 03:42:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:42:45   process is destroyed! 
+2017-01-09 03:43:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:44:58   process is destroyed! 
+2017-01-09 03:45:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 03:46:43   process is destroyed! 
+2017-01-09 08:30:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:31:06   process is destroyed! 
+2017-01-09 08:31:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:31:22   process is destroyed! 
+2017-01-09 08:31:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:31:57   process is destroyed! 
+2017-01-09 08:32:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:32:52   process is destroyed! 
+2017-01-09 08:33:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:33:27   process is destroyed! 
+2017-01-09 08:34:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:34:39   process is destroyed! 
+2017-01-09 08:35:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:37:04   process is destroyed! 
+2017-01-09 08:42:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:43:20   process is destroyed! 
+2017-01-09 08:44:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:44:58   process is destroyed! 
+2017-01-09 08:46:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:47:02   process is destroyed! 
+2017-01-09 08:48:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:49:20   process is destroyed! 
+2017-01-09 08:50:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:50:21   process is destroyed! 
+2017-01-09 08:51:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:52:10   process is destroyed! 
+2017-01-09 08:52:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:52:56   process is destroyed! 
+2017-01-09 08:53:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:53:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:54:40   process is destroyed! 
+2017-01-09 08:55:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:55:33   process is destroyed! 
+2017-01-09 08:55:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 08:57:30   process is destroyed! 
+2017-01-09 09:03:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:06:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:11:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:11:49   process is destroyed! 
+2017-01-09 09:14:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:14:40   process is destroyed! 
+2017-01-09 09:15:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:16:57   process is destroyed! 
+2017-01-09 09:17:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:17:50   process is destroyed! 
+2017-01-09 09:18:19   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:19:59   process is destroyed! 
+2017-01-09 09:22:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:22:28   process is destroyed! 
+2017-01-09 09:22:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:23:52   process is destroyed! 
+2017-01-09 09:37:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:48:54   process is destroyed! 
+2017-01-09 09:49:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:50:13   process is destroyed! 
+2017-01-09 09:51:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:52:41   process is destroyed! 
+2017-01-09 09:53:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:54:32   process is destroyed! 
+2017-01-09 09:56:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:57:29   process is destroyed! 
+2017-01-09 09:58:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 09:59:58   process is destroyed! 
+2017-01-09 10:02:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 10:03:56   process is destroyed! 
+2017-01-09 10:14:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 10:17:28   process is destroyed! 
+2017-01-09 10:17:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 10:26:15   process is destroyed! 
+2017-01-09 10:26:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-09 10:30:07   process is destroyed! 
+2017-01-10 09:24:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-10 09:27:14   process is destroyed! 
+2017-01-17 19:44:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 19:50:19   process is destroyed! 
+2017-01-17 19:57:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 19:57:48   process is destroyed! 
+2017-01-17 19:58:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:01:25   process is destroyed! 
+2017-01-17 20:02:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:02:55   process is destroyed! 
+2017-01-17 20:03:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:04:23   process is destroyed! 
+2017-01-17 20:05:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:06:08   process is destroyed! 
+2017-01-17 20:07:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:21:19   process is destroyed! 
+2017-01-17 20:36:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 20:37:30   process is destroyed! 
+2017-01-17 22:54:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 22:55:07   process is destroyed! 
+2017-01-17 22:55:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 22:57:24   process is destroyed! 
+2017-01-17 23:04:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:04:16   process is destroyed! 
+2017-01-17 23:06:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:06:46   process is destroyed! 
+2017-01-17 23:07:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:07:27   process is destroyed! 
+2017-01-17 23:09:04   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:10:47   process is destroyed! 
+2017-01-17 23:11:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:12:10   process is destroyed! 
+2017-01-17 23:15:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:17:36   process is destroyed! 
+2017-01-17 23:20:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:20:54   process is destroyed! 
+2017-01-17 23:22:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:23:07   process is destroyed! 
+2017-01-17 23:23:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:30:04   process is destroyed! 
+2017-01-17 23:32:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:33:00   process is destroyed! 
+2017-01-17 23:33:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:34:10   process is destroyed! 
+2017-01-17 23:35:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-17 23:36:30   process is destroyed! 
+2017-01-18 08:46:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:46:51   process is destroyed! 
+2017-01-18 08:46:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:47:05   process is destroyed! 
+2017-01-18 08:47:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:47:40   process is destroyed! 
+2017-01-18 08:47:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:48:24   process is destroyed! 
+2017-01-18 08:48:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:48:57   process is destroyed! 
+2017-01-18 08:49:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:49:09   process is destroyed! 
+2017-01-18 08:49:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:49:26   process is destroyed! 
+2017-01-18 08:49:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 08:49:51   process is destroyed! 
+2017-01-18 08:50:41   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 09:17:19   process is destroyed! 
+2017-01-18 10:30:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 10:31:28   process is destroyed! 
+2017-01-18 11:30:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:32:59   process is destroyed! 
+2017-01-18 11:33:07   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:33:14   process is destroyed! 
+2017-01-18 11:33:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:33:47   process is destroyed! 
+2017-01-18 11:34:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:36:24   process is destroyed! 
+2017-01-18 11:41:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:41:22   process is destroyed! 
+2017-01-18 11:41:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:41:41   process is destroyed! 
+2017-01-18 11:42:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:46:12   process is destroyed! 
+2017-01-18 11:47:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:48:01   process is destroyed! 
+2017-01-18 11:48:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 11:49:20   process is destroyed! 
+2017-01-18 14:50:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 14:53:10   process is destroyed! 
+2017-01-18 14:54:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+2017-01-18 15:02:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+Database operator error!Source:
+2017-01-18 15:08:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:11:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:22:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:28:54   process is destroyed! 
+2017-01-18 15:30:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:30:40   process is destroyed! 
+2017-01-18 15:32:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:34:26   process is destroyed! 
+2017-01-18 15:40:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:40:50   process is destroyed! 
+2017-01-18 15:42:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:42:40   process is destroyed! 
+2017-01-18 15:42:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:43:43   process is destroyed! 
+2017-01-18 15:44:08   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:44:21   process is destroyed! 
+2017-01-18 15:44:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:45:11   process is destroyed! 
+2017-01-18 15:45:44   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:46:07   process is destroyed! 
+2017-01-18 15:47:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:49:02   process is destroyed! 
+2017-01-18 15:49:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 15:49:46   process is destroyed! 
+2017-01-18 15:49:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 16:14:15   process is destroyed! 
+2017-01-18 17:00:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:00:38   process is destroyed! 
+2017-01-18 17:17:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:18:04   process is destroyed! 
+2017-01-18 17:19:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:20:04   process is destroyed! 
+2017-01-18 17:20:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:23:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:24:29   process is destroyed! 
+2017-01-18 17:31:22   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:33:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 17:39:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 18:57:47   process is destroyed! 
+2017-01-18 18:58:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 18:58:53   process is destroyed! 
+2017-01-18 18:58:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 18:59:05   process is destroyed! 
+2017-01-18 19:25:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 19:36:01   process is destroyed! 
+2017-01-18 19:38:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 19:38:28   process is destroyed! 
+2017-01-18 19:38:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 19:39:06   process is destroyed! 
+2017-01-18 19:39:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 19:39:47   process is destroyed! 
+2017-01-18 19:40:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 19:40:58   process is destroyed! 
+2017-01-18 19:42:23   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:07:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:10:20   process is destroyed! 
+2017-01-18 20:10:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:13:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:16:07   process is destroyed! 
+2017-01-18 20:16:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:27:30   process is destroyed! 
+2017-01-18 20:38:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:39:22   process is destroyed! 
+2017-01-18 20:46:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:47:32   process is destroyed! 
+2017-01-18 20:56:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 20:56:56   process is destroyed! 
+2017-01-18 23:17:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:20:53   process is destroyed! 
+2017-01-18 23:25:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:31:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:32:27   process is destroyed! 
+2017-01-18 23:35:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:36:18   process is destroyed! 
+2017-01-18 23:42:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:45:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-18 23:48:03   process is destroyed! 
+2017-01-19 00:11:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 00:13:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 00:17:09   process is destroyed! 
+2017-01-19 00:26:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 00:46:32   process is destroyed! 
+2017-01-19 01:16:05   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:17:05   process is destroyed! 
+2017-01-19 01:17:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:18:13   process is destroyed! 
+2017-01-19 01:20:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:20:39   process is destroyed! 
+2017-01-19 01:21:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:21:32   process is destroyed! 
+2017-01-19 01:21:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:21:49   process is destroyed! 
+2017-01-19 01:22:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:22:59   process is destroyed! 
+2017-01-19 01:23:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:23:35   process is destroyed! 
+2017-01-19 01:23:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:24:07   process is destroyed! 
+2017-01-19 01:24:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:24:51   process is destroyed! 
+2017-01-19 01:27:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:28:34   process is destroyed! 
+2017-01-19 01:29:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:33:17   process is destroyed! 
+2017-01-19 01:33:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 01:38:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 09:04:59   process is destroyed! 
+2017-01-19 09:40:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 09:46:14   process is destroyed! 
+2017-01-19 09:56:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:01:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:02:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:04:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:07:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:07:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:08:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:09:02   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:09:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:10:05   process is destroyed! 
+2017-01-19 10:10:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:11:56   process is destroyed! 
+2017-01-19 10:12:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:18:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:19:57   process is destroyed! 
+2017-01-19 10:20:13   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:22:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:24:51   process is destroyed! 
+2017-01-19 10:33:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:38:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:47:42   process is destroyed! 
+2017-01-19 10:47:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:54:55   process is destroyed! 
+2017-01-19 10:55:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:58:48   process is destroyed! 
+2017-01-19 10:59:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 10:59:34   process is destroyed! 
+2017-01-19 11:00:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 11:00:20   process is destroyed! 
+2017-01-19 11:02:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 11:07:04   process is destroyed! 
+2017-01-19 11:08:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 11:25:57   process is destroyed! 
+2017-01-19 14:25:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 14:28:34   process is destroyed! 
+2017-01-19 14:30:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 14:31:07   process is destroyed! 
+2017-01-19 14:32:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 14:37:36   process is destroyed! 
+2017-01-19 14:39:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 14:40:16   process is destroyed! 
+2017-01-19 14:58:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:01:47   process is destroyed! 
+2017-01-19 15:02:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:05:53   process is destroyed! 
+2017-01-19 15:19:58   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:20:39   process is destroyed! 
+2017-01-19 15:21:42   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:26:52   process is destroyed! 
+2017-01-19 15:30:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:37:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:37:49   process is destroyed! 
+2017-01-19 15:38:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:42:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:44:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:45:39   process is destroyed! 
+2017-01-19 15:46:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:46:43   process is destroyed! 
+2017-01-19 15:52:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:53:20   process is destroyed! 
+2017-01-19 15:54:12   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:54:41   process is destroyed! 
+2017-01-19 15:58:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 15:59:33   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:01:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:04:15   process is destroyed! 
+2017-01-19 16:05:09   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:09:44   process is destroyed! 
+2017-01-19 16:11:11   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:11:54   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:14:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:20:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:21:59   process is destroyed! 
+2017-01-19 16:22:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:30:29   process is destroyed! 
+2017-01-19 16:41:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:41:55   process is destroyed! 
+2017-01-19 16:45:04   process is destroyed! 
+2017-01-19 16:46:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:46:29   process is destroyed! 
+2017-01-19 16:46:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:48:13   process is destroyed! 
+2017-01-19 16:53:17   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 16:54:29   process is destroyed! 
+2017-01-19 16:56:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:01:55   process is destroyed! 
+2017-01-19 17:14:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:14:45   process is destroyed! 
+2017-01-19 17:16:06   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:17:53   process is destroyed! 
+2017-01-19 17:18:16   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:18:34   process is destroyed! 
+2017-01-19 17:21:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:22:17   process is destroyed! 
+2017-01-19 17:28:51   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:30:32   process is destroyed! 
+2017-01-19 17:32:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:32:37   process is destroyed! 
+2017-01-19 17:32:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:33:02   process is destroyed! 
+2017-01-19 17:33:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:34:26   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:36:34   process is destroyed! 
+2017-01-19 17:36:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:38:18   process is destroyed! 
+2017-01-19 17:41:27   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 17:50:05   process is destroyed! 
+2017-01-19 19:49:28   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 19:49:47   process is destroyed! 
+2017-01-19 22:44:17   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 22:46:11   process is destroyed! 
+2017-01-19 22:58:43   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:06:17   process is destroyed! 
+2017-01-19 23:35:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:36:10   process is destroyed! 
+2017-01-19 23:36:46   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:36:56   process is destroyed! 
+2017-01-19 23:40:35   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:42:52   process is destroyed! 
+2017-01-19 23:44:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:52:14   process is destroyed! 
+2017-01-19 23:57:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:57:50   process is destroyed! 
+2017-01-19 23:58:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-19 23:59:33   process is destroyed! 
+2017-01-20 00:00:10   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 00:00:49   process is destroyed! 
+2017-01-20 00:01:32   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 00:10:30   process is destroyed! 
+2017-01-20 00:12:37   tcp server is started !   ip = 192.168.1.101  port = 8000
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+Database operator error!Source:
+2017-01-20 00:17:33   process is destroyed! 
+2017-01-20 00:20:41   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 00:20:41   192.168.1.105 connected !
+2017-01-20 00:46:38   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 00:46:40   192.168.1.105 connected !
+2017-01-20 02:11:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 02:11:15   192.168.1.105 connected !
+2017-01-20 02:11:24   process is destroyed! 
+2017-01-20 02:11:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 02:11:32   192.168.1.105 connected !
+2017-01-20 02:12:32   process is destroyed! 
+2017-01-20 09:38:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 09:38:57   192.168.1.105 connected !
+2017-01-20 09:39:04   process is destroyed! 
+2017-01-20 09:39:25   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 09:39:28   192.168.1.105 connected !
+2017-01-20 09:44:35   process is destroyed! 
+2017-01-20 09:52:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 09:52:39   192.168.1.105 connected !
+2017-01-20 09:54:47   process is destroyed! 
+2017-01-20 11:00:57   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:00:57   192.168.1.105 connected !
+2017-01-20 11:01:09   process is destroyed! 
+2017-01-20 11:01:31   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:01:32   192.168.1.105 connected !
+2017-01-20 11:02:23   process is destroyed! 
+2017-01-20 11:09:36   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:09:39   192.168.1.105 connected !
+2017-01-20 11:09:52   process is destroyed! 
+2017-01-20 11:14:01   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:14:03   192.168.1.105 connected !
+2017-01-20 11:15:03   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:15:06   192.168.1.105 connected !
+2017-01-20 11:15:49   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:15:50   192.168.1.105 connected !
+2017-01-20 11:16:13   process is destroyed! 
+2017-01-20 11:16:53   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:16:56   192.168.1.105 connected !
+2017-01-20 11:18:42   process is destroyed! 
+2017-01-20 11:21:21   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:21:21   192.168.1.105 connected !
+2017-01-20 11:22:24   process is destroyed! 
+2017-01-20 11:33:48   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:33:51   192.168.1.105 connected !
+2017-01-20 11:34:13   process is destroyed! 
+2017-01-20 11:34:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-01-20 11:34:20   192.168.1.105 connected !
+2017-01-20 11:34:32   process is destroyed! 
+2017-03-04 14:53:24   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-04 14:57:20   process is destroyed! 
+2017-03-04 15:00:56   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-04 15:01:09   process is destroyed! 
+2017-03-05 11:54:20   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 12:05:56   process is destroyed! 
+2017-03-05 14:53:14   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:02:25   process is destroyed! 
+2017-03-05 15:31:39   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:35:14   process is destroyed! 
+2017-03-05 15:35:45   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:36:31   process is destroyed! 
+2017-03-05 15:48:40   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:49:09   process is destroyed! 
+2017-03-05 15:49:59   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:50:16   process is destroyed! 
+2017-03-05 15:50:34   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-05 15:51:36   process is destroyed! 
+2017-03-06 22:25:17   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 22:26:02   process is destroyed! 
+2017-03-06 22:49:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 22:50:47   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 22:50:49   process is destroyed! 
+2017-03-06 22:50:55   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:04:50   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:05:29   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:05:52   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:39:30   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:45:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:58:15   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:58:31   process is destroyed! 
+2017-03-06 23:59:00   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-06 23:59:18   process is destroyed! 
+2017-03-07 00:00:18   tcp server is started !   ip = 192.168.1.101  port = 8000
+2017-03-07 00:00:28   process is destroyed! 

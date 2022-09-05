@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="collector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="collectorDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageSetting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPropertySheet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PageUpgrade.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="appface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Protocol.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCPModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SocketOverlap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCPServerPackage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDatabase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DeliCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogAddDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="collector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="collectorDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageSetting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPropertySheet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PageUpgrade.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Protocol.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCPModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCPServerPackage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SocketOverlap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDatabase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeliCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogAddDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="collector.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\collector.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\collector.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\setting.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap5.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\control.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\setting1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\search.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\switch.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\openFile.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\openFile.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\upgrade.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\fengrenji.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\frj.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitbug_favicon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\log3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap15.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\previous.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\next.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\next.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\previous.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\first.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\last.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\skin.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\event.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\device.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\refresh-bmp.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

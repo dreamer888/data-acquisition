@@ -1,0 +1,42 @@
+util.c
+
+
+debug 版本的不能包含这个头文件，
+
+#include "stdafx.h"
+
+而release的却必须包含这个文件 
+
+
+
+
+
+debug
+
+>c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxv_w32.h(16): fatal error C1189: #error:  WINDOWS.H already included.  MFC apps must not #include <windows.h>
+
+  WINDOWS.H already included
+ 
+
+解决办法，就是  debug版的要 注释掉 
+//#include "stdafx.h"
+
+debug  x86--会出现下面的问题，但debug x64 ，以及 release版本 都不会出现  
+>c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxv_w32.h(16): fatal error C1189: #error:  WINDOWS.H already included.  MFC apps must not #include <windows.h>
+
+另外一个解决方案是 util.c 属性 设置为，不使用预编译头 ，，这样就不用来回切换了 。
+
+
+
+server=192.168.1.101\\HMKJ
+
+because  HMKJ is not the  default  instance !
+
+===================
+如何生成静态的链接的程序 ？
+1 运行时库 ，mt ，
+2  在静态库中使用MFC ， 
+
+如何 在 win7 x64 开发环境生成 能在xp -x86 环境下运行的应用程序 ？
+ 平台工具集 ----Windows XP (v140_xp)
+
